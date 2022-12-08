@@ -1,0 +1,14 @@
+    what i want:
+ - webside taht i can draw float chart with ready to use shapes and arrow
+ - you can write on shapes
+ - save it as image
+
+    requestment:
+ - html for webside
+ - css for shapes and arrow
+ - js loop so that there aren't only limited amount of shapes
+ - need rules
+
+    rules:
+ - arrow must connect two shapes
+ - 
