@@ -1,5 +1,5 @@
     what i want:
- - webside taht i can draw float chart with ready to use shapes and arrow
+ - webside taht i can draw flow chart with ready to use shapes and arrow
  - you can write on shapes
  - save it as image
 
